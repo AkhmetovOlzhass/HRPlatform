@@ -11,13 +11,13 @@ AI Recruitment Platform is a **web application** for automated employee hiring a
 - **Additional:** Telegram Bot API, AI-powered Interview System
 
 ## 🎯 Features
-✅ Job Vacancy Management (Full CRUD)
-✅ Automated Telegram Bot Interview Process
-✅ AI-Powered Candidate Screening
-✅ PDF Resume Analysis
-✅ Intelligent Hiring Decision Making
-✅ Candidate Evaluation Storage
-✅ Telegram Integration for Interviews
+✅ Job Vacancy Management (Full CRUD)  
+✅ Automated Telegram Bot Interview Process  
+✅ AI-Powered Candidate Screening  
+✅ PDF Resume Analysis  
+✅ Intelligent Hiring Decision Making  
+✅ Candidate Evaluation Storage  
+✅ Telegram Integration for Interviews  
 
 ## 🔗 Useful Links
 📩 Contact: @Shakarymm
